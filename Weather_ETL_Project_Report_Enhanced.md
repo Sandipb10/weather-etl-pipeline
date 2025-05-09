@@ -140,7 +140,5 @@ This ETL pipeline demonstrates the ability to extract real-time weather data, tr
 ---
 
 
-Below is a sample output of the visualization:
 
-![Weather Data Visualization](path_to_your_image.png)
 
